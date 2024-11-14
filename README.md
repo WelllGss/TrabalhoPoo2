@@ -11,6 +11,7 @@
 ### Pré-requisitos:
 
 - [Java]
+- [JDK CORRETTO-19]
 
 ### Passos:
 
